@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "RJC2024001",
+    "password": "pass123",
+    "name": "Joel Sebastian Jijo",
+    "department": "Artificial Intelligence & Data Science",
+    "semester": 3,
+    "targetPoints": 100
+  },
+  {
+    "uid": "RJC2024002",
+    "password": "demo123",
+    "name": "Anaya Menon",
+    "department": "Computer Science & Engineering",
+    "semester": 5,
+    "targetPoints": 120
+  },
+  {
+    "uid": "RJC2024003",
+    "password": "demo123",
+    "name": "Rahul Varma",
+    "department": "Electronics & Communication",
+    "semester": 1,
+    "targetPoints": 80
+  }
+]

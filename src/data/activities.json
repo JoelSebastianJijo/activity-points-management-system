@@ -1,0 +1,78 @@
+{
+  "RJC2024001": [
+    {
+      "id": "a1",
+      "title": "Smart India Hackathon 2026 — Internal Round",
+      "category": "technical",
+      "date": "2026-02-10",
+      "description": "Participated in the internal round of Smart India Hackathon as part of a 6-member team.",
+      "pointsClaimed": 20,
+      "pointsApproved": 20,
+      "status": "Approved"
+    },
+    {
+      "id": "a2",
+      "title": "NSS Blood Donation Camp",
+      "category": "social",
+      "date": "2026-01-18",
+      "description": "Volunteered at the college blood donation camp organised with the Red Cross.",
+      "pointsClaimed": 10,
+      "pointsApproved": 10,
+      "status": "Approved"
+    },
+    {
+      "id": "a3",
+      "title": "College Tech Fest — Registration Desk Lead",
+      "category": "leadership",
+      "date": "2025-11-22",
+      "description": "Coordinated the registration desk for the annual technical festival.",
+      "pointsClaimed": 15,
+      "pointsApproved": 10,
+      "status": "Approved"
+    },
+    {
+      "id": "a4",
+      "title": "AI Workshop Certification",
+      "category": "technical",
+      "date": "2026-03-02",
+      "description": "Completed a 2-day workshop on applied machine learning.",
+      "pointsClaimed": 10,
+      "pointsApproved": 0,
+      "status": "Pending"
+    }
+  ],
+  "RJC2024002": [
+    {
+      "id": "b1",
+      "title": "Inter-College Badminton Tournament",
+      "category": "sports",
+      "date": "2026-01-05",
+      "description": "Represented the college in the doubles category.",
+      "pointsClaimed": 15,
+      "pointsApproved": 15,
+      "status": "Approved"
+    },
+    {
+      "id": "b2",
+      "title": "Annual Cultural Fest — Dance Team",
+      "category": "cultural",
+      "date": "2025-12-14",
+      "description": "Performed as part of the college dance team at the annual fest.",
+      "pointsClaimed": 10,
+      "pointsApproved": 10,
+      "status": "Approved"
+    }
+  ],
+  "RJC2024003": [
+    {
+      "id": "c1",
+      "title": "Startup Pitch Competition",
+      "category": "entrepreneurship",
+      "date": "2026-02-20",
+      "description": "Pitched a student startup idea at the college entrepreneurship cell event.",
+      "pointsClaimed": 12,
+      "pointsApproved": 0,
+      "status": "Rejected"
+    }
+  ]
+}

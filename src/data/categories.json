@@ -1,0 +1,8 @@
+[
+  { "id": "technical", "label": "Technical / Professional", "description": "Workshops, hackathons, certifications, technical clubs" },
+  { "id": "sports", "label": "Sports", "description": "Inter-college, intra-college and university-level sports events" },
+  { "id": "cultural", "label": "Cultural", "description": "Arts, music, dance, drama and cultural fests" },
+  { "id": "social", "label": "Social Service", "description": "NSS, NCC, community outreach and volunteering" },
+  { "id": "entrepreneurship", "label": "Entrepreneurship", "description": "Startup events, business plan competitions, incubation programmes" },
+  { "id": "leadership", "label": "Leadership", "description": "Club office-bearer roles, student council, event coordination" }
+]
