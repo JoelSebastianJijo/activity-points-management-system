@@ -12,8 +12,8 @@ to a real database).
 
 ## Live Demo
 
-- GitHub Pages: _add your deployed URL here after running `npm run deploy`_
-- Repository: _add your GitHub repository URL here_
+- GitHub Pages: https://joelsebastianjijo.github.io/activity-points-management-system/
+- Repository: https://github.com/JoelSebastianJijo/activity-points-management-system
 
 ## Sample Login
 
